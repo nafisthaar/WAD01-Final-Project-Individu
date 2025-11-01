@@ -27,10 +27,10 @@ Solusi yang saya buat adalah **"Mini Content Management System (CMS)"** yang mem
 Berikut adalah petunjuk untuk menjalankan project ini di XAMPP.
 
 **A. Konfigurasi Database:**
-* Project ini membutuhkan *database* MySQL (via XAMPP) untuk dapat berjalan.
-* Nama *database* yang dibutuhkan: **`adviz_blog`**.
-* Untuk kemudahan *setup* tabel (dan *dummy content*), *file* **`adviz_blog.sql`** sudah saya sertakan di dalam *repository* ini.
-* Silakan *import* file `.sql` tersebut ke dalam *database* `adviz_blog` yang telah dibuat (via `phpMyAdmin` atau *tools* sejenis).
+* Project ini membutuhkan database MySQL (via XAMPP) untuk dapat berjalan.
+* Nama database yang dibutuhkan: **`adviz_blog`**.
+* Untuk kemudahan setup tabel (dan dummy content), file **`adviz_blog.sql`** sudah saya sertakan di dalam repository ini.
+* Silakan import file `.sql` tersebut ke dalam database `adviz_blog` yang telah dibuat (via `phpMyAdmin` atau tools sejenis).
 
 **B. Link Halaman Project:**
 1.  **Public Page (Fitur Blog):**
