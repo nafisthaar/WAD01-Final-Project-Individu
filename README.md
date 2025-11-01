@@ -18,7 +18,7 @@ Solusi yang saya buat adalah **"Mini Content Management System (CMS)"** yang mem
 * **Delete:** Menghapus artikel
 
 ## 2. Fitur & Teknologi
-* **Frontend:** HTML, CSS, Bootstrap (untuk tampilan profesional)
+* **Frontend:** HTML, CSS, Bootstrap
 * **Backend:** PHP
 * **Database:** MySQL
 
