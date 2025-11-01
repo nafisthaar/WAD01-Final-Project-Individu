@@ -22,18 +22,16 @@ Solusi yang saya buat adalah **"Mini Content Management System (CMS)"** yang mem
 * **Backend:** PHP
 * **Database:** MySQL
 
-## 3. Cara Menjalankan Project
+## 3. Petunjuk Instalasi & Menjalani Project
 
-**A. Setup Database (Otomatis):**
-1.  Nyalakan **Apache** dan **MySQL** di XAMPP.
-2.  Buka `http://localhost/phpmyadmin/`
-3.  Buat database baru dengan nama: **`adviz_blog`**
-4.  Klik database `adviz_blog` yang baru dibuat.
-5.  Klik *tab* **"Import"** di bagian atas.
-6.  Klik "Choose File" dan pilih file **`adviz_blog.sql`** (yang ada di dalam folder proyek ini).
-7.  Klik "Go" atau "Import" di bagian bawah. Database akan otomatis terisi.
+**A. Konfigurasi Database:**
+Berikut adalah petunjuk untuk menjalankan project ini di XAMPP.
+* Project ini membutuhkan *database* MySQL (via XAMPP) untuk dapat berjalan.
+* Nama *database* yang dibutuhkan: **`adviz_blog`**.
+* Untuk kemudahan *setup* tabel (dan *dummy content*), *file* **`adviz_blog.sql`** sudah saya sertakan di dalam *repository* ini.
+* Silakan *import* file `.sql` tersebut ke dalam *database* `adviz_blog` yang telah dibuat (via `phpMyAdmin` atau *tools* sejenis).
 
-**B. Buka Website:**
+**B. Link Halaman Project:**
 1.  **Public Page:**
     `http://localhost/projek_adviz/blog.php`
 2.  **Admin Page (Untuk Coba CRUD):**
